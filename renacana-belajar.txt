@@ -1,0 +1,9 @@
+RENACANA BELAJAR WEB PROGRAMMING:
+
+-PHP
+  *belajar oop php dan belajar mvc php
+-CSS
+  *belajar css seperti grid dan flexbox
+-LARAVEL
+-JAVA
+-JAVASCRIPT
