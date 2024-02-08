@@ -2,4 +2,5 @@ RESOLUSI SAYA:
 - Belajar secara rutin dan konsisten
 - Mahir menggunakan git
 - Belajar javascript
-- Membuat crud dengan eloquent laravel
+- Belajar membuat api dengan laravel
+- Menggunakan tech stack TALL
