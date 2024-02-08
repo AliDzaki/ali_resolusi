@@ -4,8 +4,9 @@ RENACANA BELAJAR WEB PROGRAMMING:
   *belajar oop php dan belajar mvc php
 -CSS
   *belajar css seperti grid dan flexbox
-   ^tailwind css
+   ^tailwind
 -LARAVEL
--JAVA
-  ^spring boot
+-JAVASCRIPT
+  ^node js
+
 
